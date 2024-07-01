@@ -30,7 +30,7 @@ To run this project, you'll need to have Python and `pygame` installed on your m
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/game-of-life.git
+    git clone https://github.com/h4ide/game-of-life.git
     cd game-of-life
     ```
 
