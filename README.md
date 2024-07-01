@@ -1,4 +1,5 @@
 # Game of Life by John Conway
+![image](https://github.com/H4ide/game-of-life/assets/54513784/cd55a79b-5133-49b5-920b-fffa5a7ca83b)
 
 Welcome to the **Game of Life** project! This repository contains a Python implementation of John Conway's famous cellular automaton, the Game of Life. This project includes both a user guide and a programmer's guide to help you understand and interact with the game, as well as the source code for running the simulation.
 
